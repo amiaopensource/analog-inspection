@@ -9,7 +9,7 @@ List of freely available analog media inspection templates, forms, or reports.
 - **National Film and Sound Archive Australia** (c.2008) | [Condition Report Form for Film](http://nfsa.gov.au/preservation/handbook/condition-reporting/condition-report-form/)
 - **Filmoteca Española** (1996) | [Informe de inspección de materiales (película)](http://www.mcu.es/cine/MC/FE/Documentacion/InspeccionTecnicaHTM/16-InspeccionTecnica-Apendices1.htm)
 - **National Film Preservation Foundation (NFPF)** (2004) | [Print Condition Report for Film](http://www.filmpreservation.org/userfiles/image/PDFs/pcr_blank.pdf)
-
+- **Columbia University Libraries** (2008) | [Audio and Moving Image Survey Tool](http://library.columbia.edu/services/preservation/audiosurvey.html)
 
 ## IDENTIFICATION RESOURCES
 - **University of Illinois at Urbana-Champaign Preservation Self-Assessment Program (PSAP)** | [Format ID Guide](https://psap.library.illinois.edu/format-id-guide)
