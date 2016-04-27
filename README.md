@@ -7,13 +7,15 @@ List of freely available analog media inspection templates, forms, or reports.
 - **Tanisha Jones, Moving Image Archiving & Preservation, New York University** (2005) | [Video Prioritization, Selection, and Inspection Overview and Form](http://www.nyu.edu/tisch/preservation/program/student_work/2005spring/05s_3403_jones_a3.doc)
 - **Independent Media Arts Preservation (IMAP)** (c.2006) | [Videotape Inspection Form](http://www.eai.org/resourceguide/preservation/singlechannel/pdf/videotape_inspection_form.pdf)
 - **National Film and Sound Archive Australia** (c.2008) | [Condition Report Form for Film](http://nfsa.gov.au/preservation/handbook/condition-reporting/condition-report-form/)
-- **Filmoteca Española** (1996) | [Informe de inspección de materiales (película)](http://www.mcu.es/cine/MC/FE/Documentacion/InspeccionTecnicaHTM/16-InspeccionTecnica-Apendices1.htm)
+- **Filmoteca EspaÃ±ola** (1996) | [Informe de inspecciÃ³n de materiales (pelÃ­cula)](http://www.mcu.es/cine/MC/FE/Documentacion/InspeccionTecnicaHTM/16-InspeccionTecnica-Apendices1.htm)
+- **National Film Preservation Foundation (NFPF)** (2004) | [Print Condition Report for Film](http://www.filmpreservation.org/userfiles/image/PDFs/pcr_blank.pdf)
 
 
 ## IDENTIFICATION RESOURCES
 - **University of Illinois at Urbana-Champaign Preservation Self-Assessment Program (PSAP)** | [Format ID Guide](https://psap.library.illinois.edu/format-id-guide)
 - **California Audiovisual Preservation Project** | [Audiovisual Formats: A Guide to Identification](http://calpreservation.org/wp-content/uploads/2013/10/2013-Audiovisual-Formats_draft_webversion-2013oct15.pdf)
 - **Texas Commission on the Arts** | [Videotape Identification and Assessment Guide](http://www.arts.texas.gov/wp-content/uploads/2012/04/video.pdf)
+- **Indiana University Field Audio Collection Evaluation Tool (FACET)** (2007) | [Format Characteristics and Preservation Problems](http://www.dlib.indiana.edu/projects/sounddirections/facet/facet_formats.pdf)
 
 ## HOW TO CONTRIBUTE
 Please add your own inspection or condition assessment templates and forms to the list above. Order does not dictate preference. Appropriate additions may include:
