@@ -1,4 +1,4 @@
-# analog-inspection
+﻿# analog-inspection
 List of freely available analog media inspection templates, forms, or reports.
 
 ## TEMPLATES/FORMS
@@ -10,6 +10,7 @@ List of freely available analog media inspection templates, forms, or reports.
 - **Filmoteca Española** (1996) | [Informe de inspección de materiales (película)](http://www.mcu.es/cine/MC/FE/Documentacion/InspeccionTecnicaHTM/16-InspeccionTecnica-Apendices1.htm)
 - **National Film Preservation Foundation (NFPF)** (2004) | [Print Condition Report for Film](http://www.filmpreservation.org/userfiles/image/PDFs/pcr_blank.pdf)
 - **Columbia University Libraries** (2008) | [Audio and Moving Image Survey Tool](http://library.columbia.edu/services/preservation/audiosurvey.html)
+- **University of Washington Libraries** (date unknown) | [Film Condition Report](http://www.lib.washington.edu/specialcollections/collections/film-condition-report/at_download/file); [Videotape/Audiotape Condition Report](http://www.lib.washington.edu/specialcollections/collections/videotape-audiotape-condition-preservation/at_download/file)
 
 ## IDENTIFICATION RESOURCES
 - **University of Illinois at Urbana-Champaign Preservation Self-Assessment Program (PSAP)** | [Format ID Guide](https://psap.library.illinois.edu/format-id-guide)
