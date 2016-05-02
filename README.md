@@ -14,8 +14,8 @@ List of freely available analog media inspection templates, forms, or reports.
 
 ## IDENTIFICATION RESOURCES
 - **University of Illinois at Urbana-Champaign Preservation Self-Assessment Program (PSAP)** | [Format ID Guide](https://psap.library.illinois.edu/format-id-guide)
-- **California Audiovisual Preservation Project** | [Audiovisual Formats: A Guide to Identification](http://calpreservation.org/wp-content/uploads/2013/10/2013-Audiovisual-Formats_draft_webversion-2013oct15.pdf)
-- **Texas Commission on the Arts** | [Videotape Identification and Assessment Guide](http://www.arts.texas.gov/wp-content/uploads/2012/04/video.pdf)
+- **California Audiovisual Preservation Project** (2013) | [Audiovisual Formats: A Guide to Identification](http://calpreservation.org/wp-content/uploads/2013/10/2013-Audiovisual-Formats_draft_webversion-2013oct15.pdf)
+- **Texas Commission on the Arts** (2004) | [Videotape Identification and Assessment Guide](http://www.arts.texas.gov/wp-content/uploads/2012/04/video.pdf)
 - **Indiana University Field Audio Collection Evaluation Tool (FACET)** (2007) | [Format Characteristics and Preservation Problems](http://www.dlib.indiana.edu/projects/sounddirections/facet/facet_formats.pdf)
 
 ## HOW TO CONTRIBUTE
