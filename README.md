@@ -18,6 +18,7 @@ List of freely available analog media inspection templates, forms, or reports.
 - **Texas Commission on the Arts** (2004) | [Videotape Identification and Assessment Guide](http://www.arts.texas.gov/wp-content/uploads/2012/04/video.pdf)
 - **Indiana University Field Audio Collection Evaluation Tool (FACET)** (2007) | [Format Characteristics and Preservation Problems](http://www.dlib.indiana.edu/projects/sounddirections/facet/facet_formats.pdf)
 - **Video Preservation Web Site** (2007) | [Video Format Identification Guide](http://videopreservation.conservation-us.org/vid_id/index.html)
+- **Little Archives** (2008) | [Video Tape Identification](http://www.little-archives.net/guide/content/formats.html)
 
 ## HOW TO CONTRIBUTE
 Please add your own inspection or condition assessment templates and forms to the list above. Order does not dictate preference. Appropriate additions may include:
