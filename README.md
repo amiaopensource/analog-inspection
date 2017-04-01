@@ -1,4 +1,4 @@
-﻿# analog-inspection
+# analog-inspection
 List of freely available analog media inspection templates, forms, or reports.
 
 ## TEMPLATES/FORMS
