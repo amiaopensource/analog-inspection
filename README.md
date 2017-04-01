@@ -1,4 +1,4 @@
-﻿# analog-inspection
+# analog-inspection
 List of freely available analog media inspection templates, forms, or reports.
 
 ## TEMPLATES/FORMS
@@ -13,6 +13,7 @@ List of freely available analog media inspection templates, forms, or reports.
 - **University of Washington Libraries** (date unknown) | [Film Condition Report](http://www.lib.washington.edu/specialcollections/collections/film-condition-report/at_download/file); [Videotape/Audiotape Condition Report](http://www.lib.washington.edu/specialcollections/collections/videotape-audiotape-condition-preservation/at_download/file)
 
 ## IDENTIFICATION RESOURCES
+- **Brian R. Pritchard** (2013) | [A Tool for Identifying 35mm Motion Picture Film](http://www.brianpritchard.com/35mm%20Film%20Identification%20Version%203.2.pdf); [A Tool for Identifying 16mm Motion Picture Film](http://www.brianpritchard.com/16mm%20Identification%20Version%201.02.pdf) (interactive PDFs)
 - **University of Illinois at Urbana-Champaign Preservation Self-Assessment Program (PSAP)** | [Format ID Guide](https://psap.library.illinois.edu/format-id-guide)
 - **California Audiovisual Preservation Project** (2013) | [Audiovisual Formats: A Guide to Identification](http://calpreservation.org/wp-content/uploads/2013/10/2013-Audiovisual-Formats_draft_webversion-2013oct15.pdf)
 - **Texas Commission on the Arts** (2004) | [Videotape Identification and Assessment Guide](http://www.arts.texas.gov/wp-content/uploads/2012/04/video.pdf)
@@ -33,4 +34,4 @@ Anyone is welcome to start a new issue by selecting the `Issues` tab in GitHub a
 All existing issues, open and closed, may be reviewed or commented upon in the [Issues](https://github.com/amiaopensource/analog-inspection/issues) section.
 
 ## ACKNOWLEDGEMENTS
-Special thanks to Katherine Nagels for the initial list of resources.
+Special thanks to [Katherine Frances Nagels](https://github.com/kfrn) for the initial list of resources.
