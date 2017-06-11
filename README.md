@@ -6,7 +6,7 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 
 ## Contents
 
-* [Templates/Forms](#templateforms)
+* [Templates/Forms](#templatesforms)
 * [Identification Resources](#identification-resources)
 * [How to Contribute](#how-to-contribute)
 * [Acknowledgements](#acknowledgements)
