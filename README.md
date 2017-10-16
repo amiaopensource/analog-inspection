@@ -35,6 +35,7 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 - **Indiana University Field Audio Collection Evaluation Tool (FACET)** (2007) | [Format Characteristics and Preservation Problems](http://www.dlib.indiana.edu/projects/sounddirections/facet/facet_formats.pdf)
 - **Video Preservation Web Site** (2007) | [Video Format Identification Guide](http://videopreservation.conservation-us.org/vid_id/index.html)
 - **Little Archives** (2008) | [Video Tape Identification](http://www.little-archives.net/guide/content/formats.html)
+- **University of South Carolina Moving Image Research Collections** (2012) | [Nitrate Film Deterioration Identification](https://vimeo.com/36563176)
 
 ## How to Contribute
 
