@@ -36,6 +36,7 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 - **Video Preservation Web Site** (2007) | [Video Format Identification Guide](http://videopreservation.conservation-us.org/vid_id/index.html)
 - **Little Archives** (2008) | [Video Tape Identification](http://www.little-archives.net/guide/content/formats.html)
 - **University of South Carolina Moving Image Research Collections** (2012) | [Nitrate Film Deterioration Identification](https://vimeo.com/36563176)
+- **National Film and Sound Archive of Australia** (date unknown) | [Technical Preservation Handbook](https://www.nfsa.gov.au/preservation/guide/handbook)
 
 ## How to Contribute
 
