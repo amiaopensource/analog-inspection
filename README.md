@@ -38,6 +38,7 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 - **University of South Carolina Moving Image Research Collections** (2012) | [Nitrate Film Deterioration Identification](https://vimeo.com/36563176)
 - **National Film and Sound Archive of Australia** (date unknown) | [Technical Preservation Handbook](https://www.nfsa.gov.au/preservation/guide/handbook)
 - **Barbara Flueckiger** (2012) | [Timeline of Historical Film Colors](http://zauberklang.ch/filmcolors/#/)
+- **Chace Audio by Deluxe** (2017) | [Trigger Tone - searchable online guide to audio post production terminology](http://www.triggertone.com/)
 
 ## How to Contribute
 
