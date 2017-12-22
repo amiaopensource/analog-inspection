@@ -25,6 +25,7 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 - **Columbia University Libraries** (2008) | [Audio and Moving Image Survey Tool](http://library.columbia.edu/services/preservation/audiosurvey.html)
 - **University of Washington Libraries** (date unknown) | [Film Condition Report](http://www.lib.washington.edu/specialcollections/collections/film-condition-report/at_download/file); [Videotape/Audiotape Condition Report](http://www.lib.washington.edu/specialcollections/collections/videotape-audiotape-condition-preservation/at_download/file)
 - **Netherlands Institute for Sound and Vision** (2009) | [Filmrapport / Film Inspection Form](files.beeldengeluid.nl/pdf/filmrapport-nisv-scheveningen.doc) (Dutch)
+- **Snowden Becker** (2017) | *A "Living will" for home movies:* [GoogleDocs version](https://docs.google.com/document/d/1wrtQ9Q_s61D2ybc89mZCvGlt9ihqjfFeKhWlAXfZmVU/edit?usp=sharing) and [Home Movie Day blog post](https://snowdenbecker.com/2017/09/25/home-movie-day-2017/) with links to additional editable/fillable formats. This is "a series of editable documents that allow home movie owners/creators document their collections and provide provenance, ownership, and stewardship information."
 
 ## Identification Resources
 
