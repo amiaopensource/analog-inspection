@@ -56,6 +56,10 @@ Anyone is welcome to start a new issue by selecting the `Issues` tab in GitHub a
 
 All existing issues, open and closed, may be reviewed or commented upon in the [Issues](https://github.com/amiaopensource/analog-inspection/issues) section.
 
+### Maintainers 
+
+For help contributing to this repository or other issues, please contact [Kathryn Gronsbell](https://github.com/kgrons) or [submit a New Issue](https://github.com/amiaopensource/analog-inspection/issues/new) with your question and Kathryn will get back to you.
+
 ## Acknowledgements
 
 Special thanks to [Katherine Frances Nagels](https://github.com/kfrn) for the initial list of resources.
