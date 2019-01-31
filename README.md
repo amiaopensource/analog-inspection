@@ -58,7 +58,9 @@ All existing issues, open and closed, may be reviewed or commented upon in the [
 
 ### Maintainers 
 
-For help contributing to this repository or other issues, please contact [Kathryn Gronsbell](https://github.com/kgrons) or [submit a New Issue](https://github.com/amiaopensource/analog-inspection/issues/new) with your question and Kathryn will get back to you.
+**analog-inspection** is maintained by [Kathryn Gronsbell](https://github.com/kgrons) and [Katherine Nagels](https://github.com/kfrn).
+
+For help contributing to this repository or other issues, please contact either of us, or [submit a New Issue](https://github.com/amiaopensource/analog-inspection/issues/new) with your question and we'll get back to you.
 
 ## Acknowledgements
 
