@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/56600291.svg)](https://zenodo.org/badge/latestdoi/56600291)
+
 # analog-inspection
 
 List of freely available analog media inspection templates, forms, or reports.
