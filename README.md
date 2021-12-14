@@ -35,7 +35,7 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 - **University of Illinois at Urbana-Champaign Preservation Self-Assessment Program (PSAP)** | [Format ID Guide](https://psap.library.illinois.edu/format-id-guide)
 - **California Audiovisual Preservation Project** (2013) | [Audiovisual Formats: A Guide to Identification](https://calpreservation.org/wp-content/uploads/2013/10/2013-Audiovisual-Formats_draft_webversion-2013oct15.pdf)
 - **Texas Commission on the Arts** (2004) | [Videotape Identification and Assessment Guide](http://www.arts.texas.gov/wp-content/uploads/2012/04/video.pdf)
-- **Indiana University Field Audio Collection Evaluation Tool (FACET)** (2007) | [Format Characteristics and Preservation Problems](https://www.dlib.indiana.edu/projects/sounddirections/facet/facet_formats.pdf)
+- **Indiana University Field Audio Collection Evaluation Tool (FACET)** (2007) | [Format Characteristics and Preservation Problems](https://dlib.indiana.edu/projects/sounddirections/facet/facet_formats.pdf)
 - **Video Preservation Web Site** (2007) | [Video Format Identification Guide](https://videopreservation.conservation-us.org/vid_id/index.html)
 - **Little Archives** (2008) | [Video Tape Identification](http://www.little-archives.net/guide/content/formats.html)
 - **University of South Carolina Moving Image Research Collections** (2012) | [Nitrate Film Deterioration Identification](https://vimeo.com/36563176)
