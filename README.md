@@ -50,7 +50,10 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 
 ### Film
 
-- **Brian R. Pritchard** (2013) | [A Tool for Identifying 35mm Motion Picture Film](http://www.brianpritchard.com/35mm%20Film%20Identification%20Version%203.2.pdf); [A Tool for Identifying 16mm Motion Picture Film](http://www.brianpritchard.com/16mm%20Identification%20Version%201.02.pdf) (interactive PDFs)
+- **Brian R. Pritchard** (2013), interactive PDFs:
+  - [A Tool for Identifying 35mm Motion Picture Film](http://www.brianpritchard.com/35mm%20Film%20Identification%20Version%203.2.pdf)
+  - [A Tool for Identifying 16mm Motion Picture Film](http://www.brianpritchard.com/16mm%20Identification%20Version%201.02.pdf)
+  - [A Tool for Identifying Motion Picture Film Sound Tracks](https://www.brianpritchard.com/Identification%20of%20Film%20Sound%20Version%201.3.pdf)
 - **University of South Carolina Moving Image Research Collections** (2012) | [Nitrate Film Deterioration Identification](https://vimeo.com/36563176)
 - **Barbara Flueckiger** (2012) | [Timeline of Historical Film Colors](https://zauberklang.ch/filmcolors/#/)
 - **National Film and Sound Archive of Australia** (date unknown) | [Technical Preservation Handbook](https://www.nfsa.gov.au/preservation/guide/handbook)
