@@ -19,7 +19,7 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 
 ### General/multi
 
-- **Matters in Media Art** (2016) | [Condition Report Templates](http://mattersinmediaart.org/assessing-time-based-media-art.html#post-templates): video, audio, slides, film, computer-based artwork, display hardware
+- **Matters in Media Art** (2016) | [Condition Report Templates](https://mattersinmediaart.org/assessing-time-based-media-art.html#post-templates): video, audio, slides, film, computer-based artwork, display hardware
 - **Columbia University Libraries** (2008) | [Audio and Moving Image Survey Tool](https://library.columbia.edu/services/preservation/audiosurvey.html)
 
 ### Film
@@ -28,7 +28,7 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 - **Netherlands Institute for Sound and Vision** (2009) | [Filmrapport / Film Inspection Form](https://files.beeldengeluid.nl/pdf/filmrapport-nisv-scheveningen.doc) (Dutch)
 - **National Film and Sound Archive Australia** (c. 2008) | [Condition Report Form for Film](https://www.nfsa.gov.au/preservation/guide/handbook/condition-reporting)
 - **National Film Preservation Foundation (NFPF)** (2004) | [Print Condition Report for Film](https://www.filmpreservation.org/userfiles/image/PDFs/pcr_blank.pdf)
-- **Filmoteca Española** (1996) | [Informe de inspección de materiales (película)](http://www.mcu.es/cine/MC/FE/Documentacion/InspeccionTecnicaHTM/16-InspeccionTecnica-Apendices1.htm)
+- **Filmoteca Española** (1996) | [Informe de inspección de materiales (película)](https://www.mcu.es/cine/MC/FE/Documentacion/InspeccionTecnicaHTM/16-InspeccionTecnica-Apendices1.htm)
 - **Guggenheim Museum**, Conservation Department (date unknown) | [Media Report: Film](https://www.guggenheim.org/wp-content/uploads/2015/11/guggenheim-conservation-iteration-report-film-2012.pdf)
 - **University of Washington Libraries** (date unknown) | [Film Condition Report](https://www.lib.washington.edu/specialcollections/collections/film-condition-report/at_download/file)
 
@@ -51,8 +51,8 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 ### Film
 
 - **Brian R. Pritchard** (2013), interactive PDFs:
-  - [A Tool for Identifying 35mm Motion Picture Film](http://www.brianpritchard.com/35mm%20Film%20Identification%20Version%203.2.pdf)
-  - [A Tool for Identifying 16mm Motion Picture Film](http://www.brianpritchard.com/16mm%20Identification%20Version%201.02.pdf)
+  - [A Tool for Identifying 35mm Motion Picture Film](https://www.brianpritchard.com/35mm%20Film%20Identification%20Version%203.2.pdf)
+  - [A Tool for Identifying 16mm Motion Picture Film](https://www.brianpritchard.com/16mm%20Identification%20Version%201.02.pdf)
   - [A Tool for Identifying Motion Picture Film Sound Tracks](https://www.brianpritchard.com/Identification%20of%20Film%20Sound%20Version%201.3.pdf)
 - **University of South Carolina Moving Image Research Collections** (2012) | [Nitrate Film Deterioration Identification](https://vimeo.com/36563176)
 - **Barbara Flueckiger** (2012) | [Timeline of Historical Film Colors](https://zauberklang.ch/filmcolors/#/)
@@ -60,14 +60,14 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 
 ### Video
 
-- **Little Archives** (2008) | [Video Tape Identification](http://www.little-archives.net/guide/content/formats.html)
+- **Little Archives** (2008) | [Video Tape Identification](https://www.little-archives.net/guide/content/formats.html)
 - **Video Preservation Web Site** (2007) | [Video Format Identification Guide](https://videopreservation.conservation-us.org/vid_id/index.html)
-- **Texas Commission on the Arts** (2004) | [Videotape Identification and Assessment Guide](http://www.arts.texas.gov/wp-content/uploads/2012/04/video.pdf)
+- **Texas Commission on the Arts** (2004) | [Videotape Identification and Assessment Guide](https://www.arts.texas.gov/wp-content/uploads/2012/04/video.pdf)
 
 ### Audio
 
 - **Katherine Nagels** (2018) | [reel time](https://kfrn.github.io/reel-time/): calculate the duration of your open-reel audio
-- **Chace Audio by Deluxe** (2017) | [Trigger Tone - searchable online guide to audio post production terminology](http://www.triggertone.com/)
+- **Chace Audio by Deluxe** (2017) | [Trigger Tone - searchable online guide to audio post production terminology](https://www.triggertone.com/)
 
 ## How to Contribute
 
