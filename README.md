@@ -17,32 +17,57 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 
 ## Templates/Forms
 
-- **Guggenheim Museum**, Conservation Department (date unknown) | [Media Report: Tape](https://media.guggenheim.org/content/New_York/collections/Conservation/MediaReport-Tape.pdf); [Media Report: Film](https://www.guggenheim.org/wp-content/uploads/2015/11/guggenheim-conservation-iteration-report-film-2012.pdf)
-- **Matters in Media Art** (2016) | [Condition Report Templates](http://mattersinmediaart.org/assessing-time-based-media-art.html#post-templates): video, audio, slides, film, computer-based artwork, display hardware
-- **Tanisha Jones, Moving Image Archiving & Preservation, New York University** (2005) | [Video Prioritization, Selection, and Inspection Overview and Form](https://www.nyu.edu/tisch/preservation/program/student_work/2005spring/05s_3403_jones_a3.doc)
-- **Independent Media Arts Preservation (IMAP)** (c. 2006) | [Videotape Inspection Form](https://www.eai.org/resourceguide/preservation/singlechannel/pdf/videotape_inspection_form.pdf)
-- **National Film and Sound Archive Australia** (c. 2008) | [Condition Report Form for Film](https://www.nfsa.gov.au/preservation/guide/handbook/condition-reporting)
-- **Filmoteca Española** (1996) | [Informe de inspección de materiales (película)](http://www.mcu.es/cine/MC/FE/Documentacion/InspeccionTecnicaHTM/16-InspeccionTecnica-Apendices1.htm)
-- **National Film Preservation Foundation (NFPF)** (2004) | [Print Condition Report for Film](https://www.filmpreservation.org/userfiles/image/PDFs/pcr_blank.pdf)
+### General/multi
+
+- **Matters in Media Art** (2016) | [Condition Report Templates](https://mattersinmediaart.org/assessing-time-based-media-art.html#post-templates): video, audio, slides, film, computer-based artwork, display hardware
 - **Columbia University Libraries** (2008) | [Audio and Moving Image Survey Tool](https://library.columbia.edu/services/preservation/audiosurvey.html)
-- **University of Washington Libraries** (date unknown) | [Film Condition Report](https://www.lib.washington.edu/specialcollections/collections/film-condition-report/at_download/file); [Videotape/Audiotape Condition Report](https://www.lib.washington.edu/specialcollections/collections/videotape-audiotape-condition-preservation/at_download/file)
-- **Netherlands Institute for Sound and Vision** (2009) | [Filmrapport / Film Inspection Form](https://files.beeldengeluid.nl/pdf/filmrapport-nisv-scheveningen.doc) (Dutch)
+
+### Film
+
 - **Snowden Becker** (2017) | *A "Living will" for home movies:* [GoogleDocs version](https://docs.google.com/document/d/1wrtQ9Q_s61D2ybc89mZCvGlt9ihqjfFeKhWlAXfZmVU/edit?usp=sharing) and [Home Movie Day blog post](https://snowdenbecker.com/2017/09/25/home-movie-day-2017/) with links to additional editable/fillable formats. This is "a series of editable documents that allow home movie owners/creators document their collections and provide provenance, ownership, and stewardship information."
+- **Guggenheim Museum**, Conservation Department (2012) | [Media Report: Film](https://www.guggenheim.org/wp-content/uploads/2015/11/guggenheim-conservation-iteration-report-film-2012.pdf)
+- **University of Washington Libraries** (c. 2010s? before 2015) | Film Condition Report ([archive link](https://web.archive.org/web/20240707091955/https://www.lib.washington.edu/specialcollections/collections/film-condition-report/at_download/file))
+- **Netherlands Institute for Sound and Vision** (2009) | [Filmrapport / Film Inspection Form](https://files.beeldengeluid.nl/pdf/filmrapport-nisv-scheveningen.doc) (Dutch)
+- **National Film and Sound Archive Australia** (c. 2008) | [Condition Report Form for Film](https://www.nfsa.gov.au/technical-preservation-guides/handbook/preserving-film/condition-reporting)
+- **National Film Preservation Foundation (NFPF)** (2004) | [Print Condition Report for Film](https://www.filmpreservation.org/userfiles/image/PDFs/pcr_blank.pdf)
+- **Filmoteca Española** (1996) | Informe de inspección de materiales (película) ([archive link](https://web.archive.org/web/20120204173331/http://www.mcu.es/cine/MC/FE/Documentacion/InspeccionTecnicaHTM/16-InspeccionTecnica-Apendices1.htm))
+
+### Video
+
+- **University of Washington Libraries** (c. 2010s? before 2015) | Videotape/Audiotape Condition Report ([archive link](https://web.archive.org/web/20240707201912/https://www.lib.washington.edu/specialcollections/collections/videotape-audiotape-condition-preservation/at_download/file))
+- **Guggenheim Museum**, Conservation Department (c. 2010s? before 2014) | Media Report: Tape ([archive link](https://web.archive.org/web/20140911120122/http://media.guggenheim.org/content/New_York/collections/Conservation/MediaReport-Tape.pdf))
+- **Independent Media Arts Preservation (IMAP)** (c. 2006) | [Videotape Inspection Form](https://www.eai.org/resourceguide/preservation/singlechannel/pdf/videotape_inspection_form.pdf)
+- **Tanisha Jones, Moving Image Archiving & Preservation, New York University** (2005) | [Video Prioritization, Selection, and Inspection Overview and Form](https://www.nyu.edu/tisch/preservation/program/student_work/2005spring/05s_3403_jones_a3.doc)
+
 
 ## Identification Resources
 
-- **Brian R. Pritchard** (2013) | [A Tool for Identifying 35mm Motion Picture Film](http://www.brianpritchard.com/35mm%20Film%20Identification%20Version%203.2.pdf); [A Tool for Identifying 16mm Motion Picture Film](http://www.brianpritchard.com/16mm%20Identification%20Version%201.02.pdf) (interactive PDFs)
-- **University of Illinois at Urbana-Champaign Preservation Self-Assessment Program (PSAP)** | [Format ID Guide](https://psap.library.illinois.edu/format-id-guide)
+### General/multi
+
 - **California Audiovisual Preservation Project** (2013) | [Audiovisual Formats: A Guide to Identification](https://calpreservation.org/wp-content/uploads/2013/10/2013-Audiovisual-Formats_draft_webversion-2013oct15.pdf)
-- **Texas Commission on the Arts** (2004) | [Videotape Identification and Assessment Guide](http://www.arts.texas.gov/wp-content/uploads/2012/04/video.pdf)
 - **Indiana University Field Audio Collection Evaluation Tool (FACET)** (2007) | [Format Characteristics and Preservation Problems](https://dlib.indiana.edu/projects/sounddirections/facet/facet_formats.pdf)
-- **Video Preservation Web Site** (2007) | [Video Format Identification Guide](https://videopreservation.conservation-us.org/vid_id/index.html)
-- **Little Archives** (2008) | [Video Tape Identification](http://www.little-archives.net/guide/content/formats.html)
+- **University of Illinois at Urbana-Champaign Preservation Self-Assessment Program (PSAP)** | [Format ID Guide](https://psap.library.illinois.edu/format-id-guide)
+
+### Film
+
+- **Brian R. Pritchard** (2013), interactive PDFs:
+  - [A Tool for Identifying 35mm Motion Picture Film](https://www.brianpritchard.com/35mm%20Film%20Identification%20Version%203.2.pdf)
+  - [A Tool for Identifying 16mm Motion Picture Film](https://www.brianpritchard.com/16mm%20Identification%20Version%201.02.pdf)
+  - [A Tool for Identifying Motion Picture Film Sound Tracks](https://www.brianpritchard.com/Identification%20of%20Film%20Sound%20Version%201.3.pdf)
 - **University of South Carolina Moving Image Research Collections** (2012) | [Nitrate Film Deterioration Identification](https://vimeo.com/36563176)
-- **National Film and Sound Archive of Australia** (date unknown) | [Technical Preservation Handbook](https://www.nfsa.gov.au/preservation/guide/handbook)
 - **Barbara Flueckiger** (2012) | [Timeline of Historical Film Colors](https://zauberklang.ch/filmcolors/#/)
-- **Chace Audio by Deluxe** (2017) | [Trigger Tone - searchable online guide to audio post production terminology](http://www.triggertone.com/)
+- **National Film and Sound Archive of Australia** (c. 2000s? before 2017) | [Technical Preservation Handbook](https://www.nfsa.gov.au/preservation/technical-preservation-guides/handbook)
+
+### Video
+
+- **Little Archives** (2008) | Video Tape Identification ([archive link](https://web.archive.org/web/20110430123128/http://www.little-archives.net/guide/content/formats.html))
+- **Video Preservation Web Site** (2007) | [Video Format Identification Guide](https://videopreservation.conservation-us.org/vid_id/index.html)
+- **Texas Commission on the Arts** (2004) | [Videotape Identification and Assessment Guide](https://www.arts.texas.gov/wp-content/uploads/2012/04/video.pdf)
+
+### Audio
+
 - **Katherine Nagels** (2018) | [reel time](https://kfrn.github.io/reel-time/): calculate the duration of your open-reel audio
+- **Chace Audio by Deluxe** (2017) | Trigger Tone - searchable online guide to audio post production terminology ([archive link](https://web.archive.org/web/20090123051225/http://www.triggertone.com/))
 
 ## How to Contribute
 
